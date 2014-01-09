@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Count Date": "12/17/2013",
+        "Time Frame": "7:30-10:30 AM",
+        "TOTAL COUNT": "400 bicyclists"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41925954818727,
+          37.78270562224326
+        ]
+      }
+    }
+  ]
+}
